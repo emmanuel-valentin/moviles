@@ -8,3 +8,4 @@ while ($fila = $resultado->fetch_array()) {
 }
 echo json_encode($producto);
 $resultado->close();
+?>

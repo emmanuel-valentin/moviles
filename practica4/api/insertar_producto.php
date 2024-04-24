@@ -18,3 +18,4 @@ if (
   echo "Todos los campos son requeridos";
 }
 mysqli_close($conexion);
+?>
