@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practica5</string>
+    <string name="greeting">¡Bienvenido!</string>
+    <string name="login_to_continue_text">Inicia sesión para continuar</string>
+    <string name="email_text">Ingresa tu correo electrónico</string>
+    <string name="password_text">Ingresa tu contraseña</string>
+    <string name="login_text">Iniciar sesión</string>
+    <string name="create_account_text">Crea una nueva cuenta</string>
+    <string name="password_confirmation_text">Confirma tu contraseña</string>
+    <string name="register_text">Regístrate</string>
+</resources>

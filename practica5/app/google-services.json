@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74890258295",
+    "project_id": "loginf-53099",
+    "storage_bucket": "loginf-53099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74890258295:android:bae91ecaae4976bdf1a372",
+        "android_client_info": {
+          "package_name": "com.example.practica5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZRSNhWHwBxRHhStVJvfqWQhhU-EG4sYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
